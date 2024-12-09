@@ -11,3 +11,9 @@
 .but-cooler {
     font-size: 24px
 }
+
+#green {
+    background-color: rgb(90, 255, 90);
+    font-size: 24px;
+    font-weight: bold;
+}
